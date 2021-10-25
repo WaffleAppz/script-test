@@ -1,2 +1,3 @@
-# script-test
-Hello this is my first script 
+-Hello
+-Programmer
+-script.js
